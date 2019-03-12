@@ -1,0 +1,32 @@
+{
+    "name": "zarya-theme",
+    "displayName": "Zarya Theme",
+    "description": "My Brand colors implemented in my custom vs code theme hype",
+    "version": "0.0.1",
+    "author": "Gabe Amaya",
+	"publisher": "gabeamaya",
+	"galleryBanner": {
+		"color": "#FA198B",
+		"theme": "dark"
+	},
+	"homepage": "https://github.com/CodingGabe/zarya-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CodingGabe/zarya-theme"
+	},
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zarya",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zarya-color-theme.json"
+            }
+        ]
+    }
+}
