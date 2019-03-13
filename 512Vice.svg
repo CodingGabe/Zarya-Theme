@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#14B6CC;}
+	.st2{font-family:'Futura-Bold';}
+	.st3{font-size:276.4734px;}
+	.st4{fill:#FA198B;}
+	.st5{font-family:'MasterofComicsPersonalUse';}
+	.st6{font-size:168.0777px;}
+</style>
+<g id="Layer_1">
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="500" cy="498.5001" r="429.9862" gradientTransform="matrix(1 0 0 1.003 0 0)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.0502" style="stop-color:#CFCFCF"/>
+			<stop  offset="0.1086" style="stop-color:#9F9F9F"/>
+			<stop  offset="0.1704" style="stop-color:#747474"/>
+			<stop  offset="0.2346" style="stop-color:#505050"/>
+			<stop  offset="0.3016" style="stop-color:#333333"/>
+			<stop  offset="0.3725" style="stop-color:#1C1C1C"/>
+			<stop  offset="0.4491" style="stop-color:#0C0C0C"/>
+			<stop  offset="0.5354" style="stop-color:#030303"/>
+			<stop  offset="0.6521" style="stop-color:#000000"/>
+		</radialGradient>
+		<rect x="0.5" y="0.5" class="st0" width="999" height="999"/>
+		<path d="M999,1v998H1V1H999 M1000,0H0v1000h1000V0L1000,0z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 253.6426 447.4736)" class="st1 st2 st3">512</text>
+		<text transform="matrix(1 0 0 1 239.6367 433.4658)" class="st4 st2 st3">512</text>
+		<text transform="matrix(1 0 0 1 336.791 702.9443)" class="st4 st5 st6">Vice</text>
+		<text transform="matrix(1 0 0 1 332.1221 693.6045)" class="st1 st5 st6">Vice</text>
+	</g>
+</g>
+<g id="Font">
+</g>
+</svg>

@@ -1,14 +1,19 @@
 {
-    "name": "zarya-theme",
-    "displayName": "Zarya Theme",
-    "description": "My Brand colors implemented in my custom vs code theme hype",
-    "version": "0.0.1",
+    "name": "512-vice",
+    "displayName": "512 Vice",
+    "description": "A Dark with vibrant colors Theme inspired by the beautiful Miami Nights",
+    "version": "0.0.2",
     "author": "Gabe Amaya",
 	"publisher": "gabeamaya",
 	"galleryBanner": {
-		"color": "#FA198B",
+		"color": "#000000",
 		"theme": "dark"
-	},
+    },
+    "iconDefinitions": {
+        "_folder_dark": {
+          "iconPath": "512Vice.svg"
+        }
+      },
 	"homepage": "https://github.com/CodingGabe/zarya-theme",
 	"repository": {
 		"type": "git",
