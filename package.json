@@ -9,11 +9,7 @@
 		"color": "#000000",
 		"theme": "dark"
     },
-    "iconDefinitions": {
-        "_folder_dark": {
-          "iconPath": "512Vice.svg"
-        }
-      },
+    "icon": "512Vice.png",
 	"homepage": "https://github.com/CodingGabe/zarya-theme",
 	"repository": {
 		"type": "git",
@@ -28,7 +24,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Zarya",
+                "label": "512 Vice",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Zarya-color-theme.json"
             }
