@@ -21,6 +21,11 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Austin"
+      ],
     "contributes": {
         "themes": [
             {
